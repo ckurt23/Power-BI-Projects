@@ -1,6 +1,6 @@
 # Power-BI-Projects
 
-## [Power-BI-Projects](1.%20FLO%20Retailer%20Case%20Study)
+## [1. FLO Retailer Case Study](1.%20FLO%20Retailer%20Case%20Study)
 
 **Power BI Dashboard** | **Data Analyst Path Training Program**
 
